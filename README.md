@@ -4,13 +4,13 @@
 
 I did a consulting mission like a BI Analyst in **Les Plus Beaux Logis de Paris**, a prestigious B2B & B2C real estate company.
 
-For financial reasons, this family firm had to sell assets to ensure a sufficient level of cash flow.
+For financial reasons, this family firm wished to sell assets to ensure a sufficient level of cash flow.
 
 The CEO's children were engaged in a real battle because none of them wanted to sell their assets (his son had the private market and his daughter had the corporate market). In fact I had a referee position in that situation.
 
-CEO heard about datascience technics who could predict assets valorization. He asked me to did a study on parisian real estate prices evolution, by using machine learning algorithm, in order to determine which segment will be the most valuable in couple of years.**1st part**
+CEO heard about datascience technics who could predict assets valorization. He asked me to did a study on parisian real estate prices evolution, by using machine learning algorithm, in order to determine which segment will be the most valuable in couple of years.**1st part of my mission**
 
-Also, in order to falicitate their research works, his daughter wished I make available to them an algorithm which could predict and automatically classify their opportunities, depending on types of properties. **2nd part**
+Also, in order to falicitate their research works, his daughter wished I make available to them an algorithm which could predict and automatically classify their opportunities, depending on types of properties. **2nd part of my mission**
 
 <h1>II. Methodology</h1>
   <h2>1. Preparing dataset for 1st part</h2>
