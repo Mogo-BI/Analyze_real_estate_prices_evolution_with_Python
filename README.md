@@ -54,9 +54,18 @@ Also, in order to falicitate their research works, his daughter wished I make av
     <li><a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees">Openclassrooms : Initiez vous à Python pour l'analyse de données</a></li>
     <li><a href="https://openclassrooms.com/fr/courses/8063076-initiez-vous-au-machine-learning">Openclassrooms : Initiez vous au machine learning</li>
     <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html">Pandas : Fonction pandas.read_excel</li>
+    <li><a href="https://runebook.dev/fr/docs/pandas/user_guide/indexing">Runebook.dev : Documentation indexation et sélection de données Pandas</li>
+    <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html">Matplotlib : Documentation réalisation graphiques pyplot</li>
+    <li><a href="https://www.jmp.com/fr_fr/statistics-knowledge-portal/what-is-correlation/correlation-coefficient.html">Jmp Statistic : Documentation coefficient corrélation</li>
+    <li><a href="https://www.youtube.com/watch?v=iUVBpTeemjU&t=381s">Youtube 'CNRS' : One hot encoding & embedding</li>
+    <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html">Sickitlearn : train_test_split</li>
+    <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html">Sickitlearn : LinearRegression</li>
+    <li><a href="https://www.youtube.com/watch?v=nM4dE_IMfhs">Youtube 'Promath' : Formule de la régression linéaire</li>
+    <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html">Sickitlearn : mean_absolute_error</li>
+    <li><a href="https://dataanalyticspost.com/Lexique/k-means-ou-k-moyennes/#:~:text=K%2Dmeans%20(ou%20K%2Dmoyennes)%20%3A%20C',en%20groupes%20(ou%20clusters).">Data analytics post : K-means algorithm</li>
+    <li><a href="https://www.youtube.com/watch?v=4b5d3muPQmA">Youtube 'Statquest' : K-means clustering</li>
+      
 
   <h2>2. Office automation</h2>
     <li><a href="https://openclassrooms.com/fr/courses/5870121-realisez-un-diaporama-pour-accompagner-votre-presentation">Openclassrooms : Réalisez un diaporama pour accompagne votre présentation</a></li>
- 
-  <h2>3. Softskills</h2>
   
