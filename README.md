@@ -36,3 +36,11 @@ Also, in order to falicitate their research works, his daughter wished I make av
 
   <h2>5. Presentation of results</h2>
     <li>Presenting a report with visualizations and methodology applied as well as the results to their requests</li>
+
+<h1>III. Technologies & skills</h1>
+
+  <h2>1. Technologies</h2>
+
+  <h2>2. Skills</h2>
+
+<h1>IV. References</h1>
