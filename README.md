@@ -44,6 +44,7 @@ Also, in order to falicitate their research works, his daughter wished I make av
     <li>Python - Pandas - Data analysis library</li>
     <li>Python - Matplotlib - Vizualisations library</li>
     <li>Python - Scikit-Learn - Machine learning library</li>
+    <li>Microsoft Powerpoint</li>
 
   <h2>2. Assessed kills</h2>
     <li>Convince the client of the results relevance by justifying the methodology followed</li>
