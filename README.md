@@ -41,17 +41,22 @@ Also, in order to falicitate their research works, his daughter wished I make av
 
   <h2>1. Technologies</h2>
 
-  <h2>2. Skills</h2>
+  <h2>2. Assessed kills</h2>
+    <li>Convince the client of the results relevance by justifying the methodology followed</li>
+    <li>Perform correlation analysis</li>
+    <li>Perform a multivariate analysis</li>
+    <li>Present a predictive analysis</li>
+    <li>Carry out a linear regression in order to make estimates or predictions</li>
 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees">Openclassrooms : Initiez vous à Python pour l'analyse de données</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/8063076-initiez-vous-au-machine-learning">Openclassrooms : Initiez vous au machine learning</li>
+    <li><a href="https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html">Pandas : Fonction pandas.read_excel</li>
 
   <h2>2. Office automation</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
-    <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/5870121-realisez-un-diaporama-pour-accompagner-votre-presentation">Openclassrooms : Réalisez un diaporama pour accompagne votre présentation</a></li>
  
   <h2>3. Softskills</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
-    <li><a href="https://course.oc-static.com/projects/Data+Storytelling+639/Fiche+pratique+-+Les+principaux+types+de++visualisations.pdf">Fiche Pratique : Les principaux types de visualisations</li>
+  
