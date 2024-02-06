@@ -40,6 +40,10 @@ Also, in order to falicitate their research works, his daughter wished I make av
 <h1>III. Technologies & skills</h1>
 
   <h2>1. Technologies</h2>
+    <li>Anaconda Navigator - Jupyter Notebook</li>
+    <li>Python - Pandas - Data analysis library</li>
+    <li>Python - Matplotlib - Vizualisations library</li>
+    <li>Python - Scikit-Learn - Machine learning library</li>
 
   <h2>2. Assessed kills</h2>
     <li>Convince the client of the results relevance by justifying the methodology followed</li>
@@ -58,8 +62,8 @@ Also, in order to falicitate their research works, his daughter wished I make av
     <li><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html">Matplotlib : Documentation réalisation graphiques pyplot</li>
     <li><a href="https://www.jmp.com/fr_fr/statistics-knowledge-portal/what-is-correlation/correlation-coefficient.html">Jmp Statistic : Documentation coefficient corrélation</li>
     <li><a href="https://www.youtube.com/watch?v=iUVBpTeemjU&t=381s">Youtube 'CNRS' : One hot encoding & embedding</li>
-    <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html">Sickitlearn : train_test_split</li>
-    <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html">Sickitlearn : LinearRegression</li>
+    <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html">Scikit-Learn : train_test_split</li>
+    <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html">Scikit-Learn : LinearRegression</li>
     <li><a href="https://www.youtube.com/watch?v=nM4dE_IMfhs">Youtube 'Promath' : Formule de la régression linéaire</li>
     <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html">Sickitlearn : mean_absolute_error</li>
     <li><a href="https://dataanalyticspost.com/Lexique/k-means-ou-k-moyennes/#:~:text=K%2Dmeans%20(ou%20K%2Dmoyennes)%20%3A%20C',en%20groupes%20(ou%20clusters).">Data analytics post : K-means algorithm</li>
